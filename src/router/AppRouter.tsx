@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
-import Cookies from 'js-cookie';  
+import Cookies from 'js-cookie';
 import axios from 'axios';
 import { Login } from '../views/Login/Login';
 import { Register } from '../views/Register/Register';
